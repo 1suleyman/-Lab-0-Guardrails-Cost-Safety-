@@ -105,8 +105,6 @@ AWS will notify me when:
 2. **100%** of actual spend is reached
 3. **Forecasted spend** is expected to hit 100%
 
-✔️ Budget created successfully
-
 ---
 
 ### Step 4: Expected Outcome
