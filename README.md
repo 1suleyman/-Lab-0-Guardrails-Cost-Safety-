@@ -93,6 +93,8 @@ AWS Console → Billing → Budgets → Create budget
 * **Budget Amount:** `$15`
 * **Email Alerts:** Enabled (my email)
 
+<img width="489" height="50" alt="Screenshot 2026-01-06 at 13 54 15" src="https://github.com/user-attachments/assets/271029f7-5cae-4124-aa3d-842587c56b0e" />
+
 ---
 
 #### Alert Thresholds
