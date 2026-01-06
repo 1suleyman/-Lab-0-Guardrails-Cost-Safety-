@@ -50,7 +50,7 @@ All resources created in this lab will use the same tags:
 | Key     | Value          | Purpose                              |
 | ------- | -------------- | ------------------------------------ |
 | project | lab-aurora-mig | Identify all migration lab resources |
-| owner   | suleiman       | Ownership & accountability           |
+| owner   | suleyman       | Ownership & accountability           |
 | ttl     | 24h            | Signals temporary resources          |
 
 **Key Idea:**
